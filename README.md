@@ -14,4 +14,5 @@
 - Scene： Assets -> Scenes -> ShowBatteryLevel
 
 ## Note:
-- Pico_UnityXR_SDK is not in the Demo, so the SDK needs to be imported separately after - downloading the Demo. https://developer.pico-interactive.com/sdk/index?id=8
+- This demo is implemented in Unity 2019.4.
+- This demo works with Pico_UnityXR_SDK which can be found at [here.](https://developer.pico-interactive.com/sdk/index?id=8)
